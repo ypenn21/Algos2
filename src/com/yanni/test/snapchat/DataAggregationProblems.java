@@ -67,7 +67,7 @@ class Row {
     
 // }
 
-public class Solution {
+public class DataAggregationProblems {
     static final String COUNTRY = "country";
     static final String DEVICE = "device";
     static final String AGE = "age";

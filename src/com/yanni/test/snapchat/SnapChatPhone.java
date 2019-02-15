@@ -1,6 +1,6 @@
 package com.yanni.test.snapchat;
 
-public class SnapChat {
+public class SnapChatPhone {
 
     static final Integer NUMBER = 100;
 
